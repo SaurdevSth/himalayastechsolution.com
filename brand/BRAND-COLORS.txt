@@ -1,0 +1,31 @@
+HIMALAYAS TECH SOLUTION — BRAND COLORS
+Tagline: ELEVATE YOUR TECH
+
+PRIMARY
+  Summit Navy     HEX #0F2A44   RGB 15, 42, 68     CMYK 78, 38, 0, 73
+  Glacier Teal    HEX #1F8F86   RGB 31, 143, 134   CMYK 78, 0, 6, 44
+
+SUPPORTING
+  Bright Teal     HEX #2BB3A8   RGB 43, 179, 168   CMYK 76, 0, 6, 30   (accent on dark backgrounds)
+  Ridge Slate     HEX #4A5B6C   RGB 74, 91, 108    CMYK 31, 16, 0, 58  (secondary text)
+  Mist            HEX #C9D3DD   RGB 201, 211, 221  CMYK 9, 5, 0, 13    (dividers, borders)
+  Ice             HEX #F7F9FB   RGB 247, 249, 251  CMYK 2, 1, 0, 2     (light background)
+  White           HEX #FFFFFF
+
+CMYK values are approximate conversions; ask your printer for a proof.
+
+TYPOGRAPHY
+  Poppins Bold — wordmark, headlines (tracked +12%)
+  Poppins Medium — "TECH SOLUTION", tagline, subheads (tracked +30%)
+  Poppins Regular — body text
+  Free from Google Fonts: fonts.google.com/specimen/Poppins
+
+FILES
+  vertical/    stacked logo (primary), with and without tagline
+  horizontal/  side-by-side logo for headers, signatures, letterhead
+  mark/        Summit Arrow symbol only
+  app-icon/    app icons (rounded + square for stores) and favicons
+  -color     use on white / light backgrounds
+  -reversed  use on Summit Navy or dark photos
+  -black / -white  one-color uses (stamps, engraving, single-ink print)
+  SVG files are vector (text outlined, no font needed); PNG files are transparent.

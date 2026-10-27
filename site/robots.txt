@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://himalayastechsolution.com/sitemap.xml
